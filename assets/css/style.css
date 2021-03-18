@@ -93,22 +93,12 @@ p {
     background-color: #2589bd;
 }
 
-/* .about-me {
-    margin-bottom: 32px;
-    color: #ffffff;
-    border-left: 6px gray;
-    height: 100px;
-} */
 
 .work {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* .contact {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
 
 .resume {
     margin-bottom: 32px;
@@ -130,15 +120,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*Class Selector*/
-/* .about-me {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color:white;
-    color:#34477C;
-} */
+
 
 .about-me,
 .work,
@@ -147,7 +129,6 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* background-color: white; */
     color:#34477C;
 }
 
@@ -205,21 +186,9 @@ footer h2 {
     text-decoration: none;
 }
 
-/* .flexbox-main-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-} */
 
 .flexbox-container {
     display: flex;
     flex-direction: row;
 }
 
-/* .flexbox-item {
-    width: 200px;
-    margin: 10px;
-    border: 3px solid #333;
-    flex-direction: row;
-    background-color: white;
-} */
